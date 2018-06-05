@@ -7,7 +7,7 @@
 
 
 
-exports.token = NDUwOTY3NTUzMjA0ODEzODY1.Dffx6w.WgCLrjkviw4eMgaecBnQixi9wC0;
+exports.token = "NDUwOTY3NTUzMjA0ODEzODY1.Dffx6w.WgCLrjkviw4eMgaecBnQixi9wC0";
 
 //
 // Add your Discord Main User ID here
@@ -15,7 +15,7 @@ exports.token = NDUwOTY3NTUzMjA0ODEzODY1.Dffx6w.WgCLrjkviw4eMgaecBnQixi9wC0;
 // Right click your user in channel/message and pick "Copy ID" to obtain
 //
 
-exports.botOwner = 385389721024462848;
+exports.botOwner = "385389721024462848";
 
 //
 // Number of shards to spawn in sharding manager (large bots only)
