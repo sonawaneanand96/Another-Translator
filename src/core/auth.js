@@ -7,7 +7,7 @@
 
 
 
-exports.token = process.env.DISCORD_TOKEN;
+exports.token = NDUwOTY3NTUzMjA0ODEzODY1.Dffx6w.WgCLrjkviw4eMgaecBnQixi9wC0;
 
 //
 // Add your Discord Main User ID here
@@ -15,7 +15,7 @@ exports.token = process.env.DISCORD_TOKEN;
 // Right click your user in channel/message and pick "Copy ID" to obtain
 //
 
-exports.botOwner = process.env.DISCORD_TOKEN;
+exports.botOwner = 385389721024462848;
 
 //
 // Number of shards to spawn in sharding manager (large bots only)
@@ -27,7 +27,7 @@ exports.shards = 2;
 // Invite URL (OAuth2)
 //
 
-exports.invite = process.env.DISCORD_INVITE_URL;
+exports.invite = https://discordapp.com/api/oauth2/authorize?client_id=450967553204813865&permissions=0&scope=bot;
 
 //
 // Add Webhook info for logging (optional)
