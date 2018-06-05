@@ -27,7 +27,7 @@ exports.shards = 2;
 // Invite URL (OAuth2)
 //
 
-exports.invite = https://discordapp.com/api/oauth2/authorize?client_id=450967553204813865&permissions=0&scope=bot;
+exports.invite = "https://discordapp.com/api/oauth2/authorize?client_id=450967553204813865&permissions=0&scope=bot";
 
 //
 // Add Webhook info for logging (optional)
